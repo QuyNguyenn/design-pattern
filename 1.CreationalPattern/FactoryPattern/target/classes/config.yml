@@ -1,0 +1,5 @@
+com:
+  quynn:
+    config:
+      transportation:
+        creator: com.quynn.creator.CarCreator

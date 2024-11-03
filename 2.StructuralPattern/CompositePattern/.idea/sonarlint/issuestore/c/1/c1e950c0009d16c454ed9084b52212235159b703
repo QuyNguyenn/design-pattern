@@ -1,0 +1,12 @@
+
+m
+java:S1192"PDefine a constant instead of duplicating this literal "/api/v1/classes" 3 times.(†¦íØ8¨½öŒĞ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øï®Å
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÑ–ê8„êÓŒĞ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜË´ãşÿÿÿÿ8æ¬ÔŒĞ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ÌÅ²ûÿÿÿÿ8ĞÎÔŒĞ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñµ°8Ô‚ÕŒĞ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬şã±üÿÿÿÿ8ŒêôŒĞ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(İ«Û.8¥íöŒĞ0
+V
+java:S1128"4Remove this unused import 'com.quynn.model.UrlNode'.(ä¶‡÷ıÿÿÿÿ8©•øŒĞ0
